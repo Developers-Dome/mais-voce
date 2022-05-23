@@ -6,8 +6,8 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Template | React Next</title>
-        <meta name="description" content="Description site" />
+        <title>Início | Mais você</title>
+        <meta name="description" content="Receitas de comidas" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
     </>
