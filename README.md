@@ -1,3 +1,3 @@
 # Mais você 
 
-Descrição...
+Descrição do projeto
